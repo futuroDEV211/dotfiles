@@ -1,0 +1,6 @@
+[submodule ".config/ulauncher/user-themes/mint-y-dark-blue-ulauncher"]
+	path = .config/ulauncher/user-themes/mint-y-dark-blue-ulauncher
+	url = https://github.com/seu-usuario/mint-y-dark-blue-ulauncher.git
+[submodule ".config/ulauncher/user-themes/ulauncher-fluent-theme"]
+	path = .config/ulauncher/user-themes/ulauncher-fluent-theme
+	url = https://github.com/seu-usuario/ulauncher-fluent-theme.git
